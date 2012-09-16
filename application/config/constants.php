@@ -45,6 +45,7 @@ define('FOPEN_READ_WRITE_CREATE_STRICT',		'x+b');
 
 define('IMAGES','resources/images/');
 define('JS','resources/js/');
+define('EXTJS','resources/extjs/');
 define('CSS','resources/css/');
 define('UPLOAD','resources/upload/');
 

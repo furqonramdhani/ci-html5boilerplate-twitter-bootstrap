@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/GitHub/codeigniter-html5boilerplate-twitter-bootstrap/';
+$config['base_url']	= 'http://localhost/GitHub/ci-html5boilerplate-twitter-bootstrap/';
 
 /*
 |--------------------------------------------------------------------------
